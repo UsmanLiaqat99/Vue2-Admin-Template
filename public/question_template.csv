@@ -1,0 +1,3 @@
+Statement,type,a,b,c,d,Answer,category,subcategory,explanation
+Test Question 1,bool,TRUE,FALSE,,,a,6182858df523c496f2f81061,6182858df523c496f2f81025,True False Explanation
+Test Question 2,choices,option 1,option 2,option 3,option 4,a,6182858df523c496f2f81061,6182858df523c496f2f81028,Multiple Choice Explanation
